@@ -1,0 +1,50 @@
+
+embed 
+{
+	width:100%;
+}
+body
+{
+	background-image: url("../img/bells1.png");
+	background-size: 100% 
+
+}
+
+p
+{
+	color:#05080E;
+	font-size:1.5em;
+	font-family: 'Oswald', sans-serif;
+	text-align: justify;
+	background-color:#192B4F;
+	opacity: 0.9;
+	padding: 1em;
+	margin: 0em;
+
+}
+
+
+h1
+{
+	color:#FFFFFF ;
+	font-size:2em;
+	font-family: 'Oswald', sans-serif;
+	margin: 0px;
+	text-align: center;
+	background-color: black;
+
+}
+img
+{
+	width: 350px;
+}
+#a
+{
+	background-image: url(../img/logo_s1.png);
+	background-size:300px;
+}
+#b
+{
+	background-image: url(../img/logo_s2.jpg);
+	background-size:500px;
+}
